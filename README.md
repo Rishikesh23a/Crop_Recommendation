@@ -1,23 +1,28 @@
 <h1 align="center">🌾 Crop Recommendation System (Machine Learning)</h1>
 
 <p align="center">
+A Machine Learning–based Crop Recommendation App built using Python, Scikit-Learn, and Streamlit.  
+This project helps farmers select the most suitable crop based on soil and environmental parameters.
+</p>
 
-This project is a Machine Learning–based Crop Recommendation System that suggests the best crop to grow based on soil and environmental features such as Nitrogen, Phosphorus, Potassium, pH, Temperature, Humidity, and Rainfall.
+---
 
-A trained Random Forest model and a Streamlit web app are included for easy deployment and user interaction.
+## <h2>📌 Overview</h2>
 
-🚀 Features
+This **Crop Recommendation System** predicts the best crop to grow using machine learning techniques.  
+It uses soil features like **N, P, K**, along with **temperature, humidity, pH, and rainfall** to predict the most suitable crop.
 
-✔ Predicts the most suitable crop based on soil and climate
+Your repository already contains:
 
-✔ Machine Learning model trained on real agricultural dataset
+- ✔ Trained Random Forest model  
+- ✔ Preprocessor for scaling/encoding  
+- ✔ ML pipeline  
+- ✔ Dataset  
+- ✔ Streamlit App  
+- ✔ Requirements file  
 
-✔ Preprocessing pipeline included (preprocessor.pkl)
+This README explains how to run, train, and understand the system.
 
-✔ Ready-to-use Streamlit web app (streamlit_app.py)
+---
 
-✔ All artifacts and model files included
-
-✔ Lightweight and easy to run
-
-✔ Accurate Random Forest classifier
+## <h2>📁 Project Structure</h2>
