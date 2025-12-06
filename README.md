@@ -89,17 +89,25 @@ streamlit run streamlit_app.py
 
 Then open:
 
-[http://localhost:8501](https://crop-recommendation23.streamlit.app/)
+https://crop-recommendation23.streamlit.app/
 
 
 You will see a UI where you can enter:
 
-Temperature
+• Temperature
 
-Humidity
+• Humidity
 
-pH
+• pH
 
-moisture
+• moisture
 
 And the model will recommend the best crop.
+
+
+<h2>📚 Dataset Information</h2>
+
+The dataset contains:
+
+
+
