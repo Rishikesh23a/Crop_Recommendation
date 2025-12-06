@@ -72,10 +72,12 @@ best_model_RandomForest.pkl
 
 <h2>⚙️ Installation</h2>
 1️⃣ Clone the repository
+
 git clone https://github.com/Rishikesh23a/Crop_Recommendation.git
 cd Crop_Recommendation
 
 2️⃣ Install required libraries
+
 pip install -r requirements.txt
 
 <h2>🚀 Run the Streamlit App</h2>
