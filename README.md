@@ -127,6 +127,20 @@ More details are inside your training script:
 
 crop_ml_pipeline.py
 
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="screenshots/Screenshot 2025-10-26 000653.png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot 2025-10-26 005023.png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot 2025-10-26 010750.png" width="700">
+</p>
+
 <h2>🛠 Technologies Used</h2>
 
 • Python
@@ -155,16 +169,11 @@ crop_ml_pipeline.py
 
 • Mobile App Version 
 
-## 📸 App Screenshots
 
-<p align="center">
-  <img src="screenshots/Screenshot 2025-10-26 000653.png" width="700">
-</p>
+<h2>👨‍💻 Author</h2>
 
-<p align="center">
-  <img src="screenshots/Screenshot 2025-10-26 005023.png" width="700">
-</p>
+Rushikesh Sable
 
-<p align="center">
-  <img src="screenshots/Screenshot 2025-10-26 010750.png" width="700">
-</p>
+MIT AOE College
+
+📧 rushikeshsable9850@gmail.com
