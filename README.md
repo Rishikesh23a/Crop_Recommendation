@@ -1,4 +1,6 @@
-🌾 Crop Recommendation System using Machine Learning
+<h1 align="center">🌾 Crop Recommendation System (Machine Learning)</h1>
+
+<p align="center">
 
 This project is a Machine Learning–based Crop Recommendation System that suggests the best crop to grow based on soil and environmental features such as Nitrogen, Phosphorus, Potassium, pH, Temperature, Humidity, and Rainfall.
 
