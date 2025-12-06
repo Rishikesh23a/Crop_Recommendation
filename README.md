@@ -42,3 +42,28 @@ Crop_Recommendation/
 ├── streamlit_app.py # Streamlit UI for predictions
 └── .gitattributes
 ```
+## <h2>🔍 Features</h2>
+
+- 🌾 Predicts best crop based on soil & weather  
+- 🤖 Uses **Random Forest Classifier**  
+- 📊 Streamlit UI for easy use  
+- 🧪 Preprocessing pipeline for consistent predictions  
+- 💾 Includes complete dataset & ML artifacts  
+- 🛠 Easy to deploy locally or on cloud
+
+---
+
+## <h2>🧠 Machine Learning Pipeline</h2>
+
+The ML pipeline includes:
+
+- MinMax Scaling  
+- Label Encoding  
+- Feature preprocessing  
+- Random Forest Classifier  
+
+Stored inside:
+
+ml_artifacts/
+preprocessor.pkl
+best_model_RandomForest.pkl
