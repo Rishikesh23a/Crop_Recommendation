@@ -65,7 +65,9 @@ The ML pipeline includes:
 Stored inside:
 
 ml_artifacts/
+
 preprocessor.pkl
+
 best_model_RandomForest.pkl
 
 <h2>⚙️ Installation</h2>
