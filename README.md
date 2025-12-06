@@ -109,5 +109,21 @@ And the model will recommend the best crop.
 
 The dataset contains:
 
+final_datasetCrop_recommendationV2.xlsx
 
+<h2>📈 Model Performance</h2>
+
+The Random Forest model achieves:
+
+✔ High accuracy
+
+✔ Robust predictions
+
+✔ Handles non-linear relationships
+
+✔ Works well with medium-sized datasets
+
+More details are inside your training script:
+
+crop_ml_pipeline.py
 
