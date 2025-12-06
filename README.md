@@ -89,16 +89,10 @@ streamlit run streamlit_app.py
 
 Then open:
 
-http://localhost:8501
+[http://localhost:8501](https://crop-recommendation23.streamlit.app/)
 
 
 You will see a UI where you can enter:
-
-Nitrogen
-
-Phosphorus
-
-Potassium
 
 Temperature
 
@@ -106,6 +100,6 @@ Humidity
 
 pH
 
-Rainfall
+moisture
 
 And the model will recommend the best crop.
