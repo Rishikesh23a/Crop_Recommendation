@@ -127,3 +127,30 @@ More details are inside your training script:
 
 crop_ml_pipeline.py
 
+<h2>🛠 Technologies Used</h2>
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-Learn
+
+Streamlit
+
+Joblib / Pickle
+
+Matplotlib / Seaborn
+
+<h2>🔮 Future Enhancements</h2>
+
+Deploy on Streamlit Cloud / HuggingFace Spaces
+
+Add Fertilizer Recommendation System
+
+Add Soil Disease Detection Model
+
+Firebase integration for real-time IoT sensor data
+
+Mobile App Version (MIT App Inventor)
