@@ -67,3 +67,41 @@ Stored inside:
 ml_artifacts/
 preprocessor.pkl
 best_model_RandomForest.pkl
+
+<h2>⚙️ Installation</h2>
+1️⃣ Clone the repository
+git clone https://github.com/Rishikesh23a/Crop_Recommendation.git
+cd Crop_Recommendation
+
+2️⃣ Install required libraries
+pip install -r requirements.txt
+
+<h2>🚀 Run the Streamlit App</h2>
+
+Launch the ML crop recommendation web app:
+
+streamlit run streamlit_app.py
+
+
+Then open:
+
+http://localhost:8501
+
+
+You will see a UI where you can enter:
+
+Nitrogen
+
+Phosphorus
+
+Potassium
+
+Temperature
+
+Humidity
+
+pH
+
+Rainfall
+
+And the model will recommend the best crop.
