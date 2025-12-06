@@ -169,11 +169,12 @@ crop_ml_pipeline.py
 
 • Mobile App Version 
 
-
-<h2>👨‍💻 Author</h2>
+```
+👨‍💻 Author
 
 Rushikesh Sable
 
 MIT AOE College
 
 📧 rushikeshsable9850@gmail.com
+```
