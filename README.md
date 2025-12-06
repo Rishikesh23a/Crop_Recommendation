@@ -129,28 +129,29 @@ crop_ml_pipeline.py
 
 <h2>🛠 Technologies Used</h2>
 
-Python
+• Python
 
-Pandas
+• Pandas
 
-NumPy
+• NumPy
 
-Scikit-Learn
+• Scikit-Learn
 
-Streamlit
+• Streamlit
 
-Joblib / Pickle
+• Joblib / Pickle
 
-Matplotlib / Seaborn
+• Matplotlib / Seaborn
 
 <h2>🔮 Future Enhancements</h2>
 
-Deploy on Streamlit Cloud / HuggingFace Spaces
+• Deploy on Streamlit Cloud / HuggingFace Spaces
 
-Add Fertilizer Recommendation System
+• Add Fertilizer Recommendation System
 
-Add Soil Disease Detection Model
+• Add Soil Disease Detection Model
 
-Firebase integration for real-time IoT sensor data
+• Firebase integration for real-time IoT sensor data
 
-Mobile App Version (MIT App Inventor)
+• Mobile App Version 
+
