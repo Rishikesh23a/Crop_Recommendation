@@ -26,3 +26,19 @@ This README explains how to run, train, and understand the system.
 ---
 
 ## <h2>📁 Project Structure</h2>
+```
+Crop_Recommendation/
+│
+├── ml_artifacts/ # Saved ML pipeline components
+│ ├── label_encoder.pkl
+│ ├── scaler.pkl
+│ └── other preprocessing files
+│
+├── best_model_RandomForest.pkl # Final trained model
+├── crop_ml_pipeline.py # Model training + pipeline creation
+├── final_datasetCrop_recommendationV2.xlsx # Dataset used
+├── preprocessor.pkl # Full preprocessor object
+├── requirements.txt # Dependencies
+├── streamlit_app.py # Streamlit UI for predictions
+└── .gitattributes
+```
