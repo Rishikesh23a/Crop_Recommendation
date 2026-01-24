@@ -1,7 +1,7 @@
 <h1 align="center">🌾 Crop Recommendation System (Machine Learning)</h1>
 
 <p align="center">
-  <img src="./screenshots/crop_recommendation_architecture.png"
+  <img src="screenshots/Screenshot 2026-01-25 020418.png"
        alt="Crop Recommendation System Using Machine Learning"
        width="850">
 </p>
