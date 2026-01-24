@@ -1,6 +1,14 @@
 <h1 align="center">🌾 Crop Recommendation System (Machine Learning)</h1>
 
 <p align="center">
+  <img src="./screenshots/crop_recommendation_architecture.png"
+       alt="Crop Recommendation System Using Machine Learning"
+       width="850">
+</p>
+
+
+
+<p align="center">
 A Machine Learning–based Crop Recommendation App built using Python, Scikit-Learn, and Streamlit.  
 This project helps farmers select the most suitable crop based on soil and environmental parameters.
 </p>
